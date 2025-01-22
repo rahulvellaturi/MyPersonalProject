@@ -1,0 +1,10 @@
+/* LanguageSelector.css */
+
+.language-selector {
+    margin-bottom: 20px;
+  }
+  
+  .language-selector .form-control {
+    min-width: 120px;
+  }
+  

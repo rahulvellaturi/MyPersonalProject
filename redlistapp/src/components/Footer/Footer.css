@@ -1,0 +1,9 @@
+footer {
+  margin-top: auto;
+  padding: 10px;
+  background-color: #eed7a3;
+}
+
+footer .MuiContainer-root {
+  text-align: center;
+}
